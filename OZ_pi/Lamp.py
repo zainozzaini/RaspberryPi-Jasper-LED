@@ -45,7 +45,7 @@ def main(argv):
 
    for opt, arg in opts:
       if opt == '-h':
-         print 'test.py -i <inputfile> -o <outputfile>'
+         print 'Lamp.py -i switch <on/off> or Lamp.py -i blink <no>'
          sys.exit()
       elif opt in ("-i", "--ifile"):
          input = arg
