@@ -10,7 +10,7 @@ tar zxvf RPi.GPIO-0.4.1a.tar.gz<br /><br/>
 3. Change to the directory where tarball was inflated:<br />
 cd RPi.GPIO-0.4.1a<br /><br/>
 
-4. Install the GPIO library in Python:<br />
+4. Install the Python GPIO library in RPi:<br />
 sudo python setup.py install<br /><br/>
 
 
