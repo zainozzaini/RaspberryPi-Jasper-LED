@@ -14,7 +14,7 @@ cd RPi.GPIO-0.4.1a<br /><br/>
 sudo python setup.py install<br /><br/>
 
 
-5. Put file and folder on the followint path: <br />
+5. Put file and folder on the following path: <br />
 OZ_pi folder : /home/pi/home/pi/OZ_pi  <br />
 SHLight module : ../jasper/client/modules/SHLight.py  <br /><br/>
 
