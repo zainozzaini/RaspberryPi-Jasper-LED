@@ -15,7 +15,7 @@ sudo python setup.py install<br /><br/>
 
 
 5. Put file and folder on the following path: <br />
-OZ_pi folder : /home/pi/OZ_pi  <br />
+OZ_pi folder : /home/pi/  <br />
 SHLight module : ../jasper/client/modules/SHLight.py  <br /><br/>
 
 6. Rerun boot.sh in jasper/boot/ to declare new module and new words.
