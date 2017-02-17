@@ -2,7 +2,7 @@ import random
 import re
 import os
 
-WORDS = ["SWITCH","LIGHT", "ON","OFF","BLINKING"]
+WORDS = ["LIGHT", "ON","OFF","BLINKING"]
 PRIORITY = 20
 
 def handle(text, mic, profile):
